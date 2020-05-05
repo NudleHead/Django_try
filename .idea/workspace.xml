@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99aca0e8-e37e-4dbf-b675-c7a16eb1bc76" name="Default Changelist" comment="" />
+    <list default="true" id="99aca0e8-e37e-4dbf-b675-c7a16eb1bc76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1bUTRPVwLkBhLWiTZrlEbnX8kiM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,13 +52,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="638" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588715382203">
+      <screen x="78" y="0" width="1602" height="1050" />
+    </state>
+    <state x="638" y="329" key="#com.intellij.fileTypes.FileTypeChooser/78.0.1602.1050@78.0.1602.1050" timestamp="1588715382203" />
     <state x="588" y="188" key="FileChooserDialogImpl" timestamp="1588685869513">
       <screen x="78" y="0" width="1458" height="864" />
     </state>
     <state x="588" y="188" key="FileChooserDialogImpl/78.0.1458.864/1998.0.1602.1050@78.0.1458.864" timestamp="1588685869513" />
-    <state x="504" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1588685666096">
-      <screen x="78" y="0" width="1458" height="864" />
+    <state x="546" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1588715365722">
+      <screen x="78" y="0" width="1602" height="1050" />
     </state>
     <state x="504" y="258" key="com.intellij.ide.util.TipDialog/78.0.1458.864/1998.0.1602.1050@78.0.1458.864" timestamp="1588685666096" />
+    <state x="546" y="314" key="com.intellij.ide.util.TipDialog/78.0.1602.1050@78.0.1602.1050" timestamp="1588715365722" />
+    <state x="688" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588715405906">
+      <screen x="78" y="0" width="1602" height="1050" />
+    </state>
+    <state x="688" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/78.0.1602.1050@78.0.1602.1050" timestamp="1588715405906" />
   </component>
 </project>
