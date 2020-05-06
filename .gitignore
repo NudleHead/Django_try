@@ -1,4 +1,6 @@
 *.pyc
 __pycache__/
-requirments.txt
 project/
+*.sqlite3
+*.txt
+
